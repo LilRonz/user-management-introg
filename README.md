@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  User Management System
 
 ## 👥 Team
@@ -215,3 +216,6 @@ To access the production database:
   ]
 }
 ```
+=======
+# user-management-introg
+>>>>>>> 0f08112a65e1f59b09cb28902b1150c28edbdbb2

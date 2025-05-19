@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    apiUrl: 'https://usermanagementfinal-production.up.railway.app'
+    apiUrl: 'user-management-introg-production.up.railway.app'
 };
